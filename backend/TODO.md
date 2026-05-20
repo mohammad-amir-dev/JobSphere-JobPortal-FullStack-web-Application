@@ -1,0 +1,1 @@
+# Fix Registration Failed&#10;&#10;- [x] Step 1: ValidationMessages.properties USER_FOUND present ✓&#10;- [ ] Step 2: Add logging to UserServiceImpl&#10;- [ ] Step 3: Check and initialize Mongo sequences&#10;- [ ] Step 4: Test registration&#10;&#10;Next: Mongo check

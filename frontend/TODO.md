@@ -1,0 +1,1 @@
+- [x] 1. Edit tsconfig.json: Update target to \"es2020\", moduleResolution to \"bundler\" (JSON fixed)\n- [x] 2. Verify no errors in VSCode Problems/terminal (build succeeds, TS parse fixed)\n- [x] 3. Restart TS server if needed (handled via rewrite)\n- [ ] 4. Test `npm start` builds without TS errors\n- [x] 5. Complete task
