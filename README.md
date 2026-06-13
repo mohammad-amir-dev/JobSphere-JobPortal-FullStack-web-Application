@@ -154,3 +154,4 @@ Git & GitHub
 🌟 Project Summary
 
 JobSphere is a comprehensive job portal platform that bridges the gap between recruiters and job seekers by providing a secure, scalable, and user-friendly recruitment ecosystem. The project demonstrates full-stack development expertise, backend API development, database management, authentication implementation, and modern frontend design.
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/d01087c8-0bcb-42f9-ae88-46009b312b1c" />
